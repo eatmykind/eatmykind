@@ -1,7 +1,7 @@
  
-![Tak_berjudul119_20251006141114](https://github.com/user-attachments/assets/ca112644-446c-4408-be50-802d529b0623)
 
 
+![Tak_berjudul119_20251006143402](https://github.com/user-attachments/assets/b11cc56a-f486-4858-b9b5-22d6e6e8ce55)
 
 
 
