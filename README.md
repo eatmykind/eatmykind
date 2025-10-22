@@ -1,26 +1,4 @@
- 
+![Tak_berjudul139_20251022164612](https://github.com/user-attachments/assets/da496761-1989-4410-a875-8b79c0097ef9)
 
 
-![Tak_berjudul119_20251006143402](https://github.com/user-attachments/assets/b11cc56a-f486-4858-b9b5-22d6e6e8ce55)
-
-
-
-
-
-
-
-
-<!--
-**eatmykind/eatmykind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+cr : kolpaxi ^_^
