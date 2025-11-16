@@ -21,3 +21,4 @@
 ![9e488015](https://github.com/user-attachments/assets/709bdfb2-7bc0-4764-ae66-7c65e46cf30c)
 
 
+better on desktop sowwy
