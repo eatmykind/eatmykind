@@ -1,9 +1,10 @@
-
+<span style="color: red;">This text is red</span>
 
  
  ![525f3413](https://github.com/user-attachments/assets/755bbf67-2c17-4b03-ae5e-0803c284007c)
-<p align="center">⠀⠀ “ ⠀⠀⠀  *thomas* / lala ⠀⠀ ⠀ ⠀ ”
-⠀⠀ thomas fickin ⠀⠀⠀  ⠀⠀⠀⠀  ⠀⠀⠀   ⠀⠀⠀  ⠀⠀⠀⠀  ⠀block⠀ ⠀ freely if uncomf⠀⠀    ⠀⠀⠀  ⠀ ( ˘ ⫟ ˘ ) </p>⠀⠀⠀ 
+<p align="center">⠀⠀
+⠀⠀  ⌗ lala ◟ thomas⠀⠀
+  ⠀⠀⠀  ⠀⠀⠀⠀  ⠀⠀⠀⠀  ⠀he . they ⠀⠀⠀  ⠀⠀⠀⠀   ⠀⠀⠀⠀  ⠀⠀⠀   ⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀  ⠀⠀⠀  ⠀  </p>⠀⠀⠀ 
 
 [straw](https://secondpartytime.straw.page) .    [ata](https://laluhhlala.atabook.org/)   .   wip
 
