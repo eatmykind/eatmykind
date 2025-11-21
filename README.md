@@ -16,3 +16,6 @@
 
    
 <p align="center"> <img width="386" height="39" alt="tumblr_9181737bb302c967b50177655de05537_a45b8848_400" src="https://github.com/user-attachments/assets/d5fafb9a-0284-456c-9357-cdbec4ab37cb" />
+
+
+art by nvdose on tt!
