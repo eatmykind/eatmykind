@@ -7,8 +7,9 @@
 
 ⠀⠀⠀   ⠀⠀⠀⠀  ⠀⠀⠀   ⠀⠀⠀      ⠀⠀⠀⠀⠀⠀  ⠀  ⠀⠀⠀ 
 
-
-⠀⠀  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eatmykind&label=medicine.&color=orange">
+</p>
 
 
 
