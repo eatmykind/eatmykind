@@ -19,9 +19,9 @@
 
 
 <p align="center">
-   ⌗ lala ◟ thomas 
-      ⠀he . they ⠀⠀⠀ 
+  <font color="#9ec7e6" size="3">hi, welcome to my profile!</font>
 </p>
+
 
 <br><br>
 
