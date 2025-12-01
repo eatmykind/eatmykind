@@ -48,13 +48,13 @@ $$\color{white}{\mathit{more\ info\ abt\ me!}}$$
 </a>
 
 </p>
-
+<br><br>
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/825a2abb-b7f2-4c8a-a958-2834c997752a)" width="99">
+  <img src="https://github.com/user-attachments/assets/825a2abb-b7f2-4c8a-a958-2834c997752a" width="99">
 </p>
 
-<br><br>
+
 <p align="center"> <img width="450" height="200" alt="tumblr_418090450eda9c904f57b227ee121116_d5bf24e5_1280" src="https://github.com/user-attachments/assets/54f227fc-25c4-464b-9874-7d15dfdd2c6c" />
 
 
