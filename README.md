@@ -7,14 +7,37 @@
   >
 </p>
 
+
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eatmykind&label=folks.&color=371c4b ">
 </p>
+
+
+
+
+
+
+
 
 
 <p align="center">
    ⌗ lala ◟ thomas 
       ⠀he . they ⠀⠀⠀ 
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
