@@ -39,19 +39,18 @@ $$\mathit{c+h\ freely\ unless\ said\ otherwise }$$
 </p>
 
 
- <p align="center">
-
-<a href=" https://secondpartytime.straw.page/">
-
-$$\color{white}{\mathit{more\ info\ abt\ me!}}$$
-
-</a>
-
+<p align="center">
+  <br><br>
+  <a href="https://secondpartytime.straw.page/">
+  
+  $$\color{white}{\mathit{more\ info\ abt\ me!}}$$
+  
+  </a>
 </p>
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/825a2abb-b7f2-4c8a-a958-2834c997752a" width="99">
+  <img src="https://github.com/user-attachments/assets/825a2abb-b7f2-4c8a-a958-2834c997752a" width="200">
 </p>
 
 
