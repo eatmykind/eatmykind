@@ -2,9 +2,18 @@
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/1cbddaaa-dab8-4503-a02d-21601067e9fb"
-    width="350"
+    width="400"
     alt="decor"
   >
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eatmykind&label=folks.&color=371c4b ">
+</p>
+
+
+<p align="center">
+   ⌗ lala ◟ thomas 
+      ⠀he . they ⠀⠀⠀ 
 </p>
 
 
@@ -17,10 +26,7 @@
 
 
 
-<p align="center">
-   ⌗ lala ◟ thomas 
-      ⠀he . they ⠀⠀⠀ 
-</p>
+
 
 ⠀⠀⠀   ⠀⠀⠀⠀  ⠀⠀⠀   ⠀⠀⠀      ⠀⠀⠀⠀⠀⠀  ⠀  ⠀
 wip
