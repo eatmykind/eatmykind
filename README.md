@@ -7,6 +7,8 @@
   >
 </p>
 
+<p align="center"> ୨୧ </p> 
+<br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eatmykind&label=folks.&color=7326BE ">
 </p>
 
