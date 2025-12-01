@@ -20,7 +20,7 @@
 
 <p align="center">
 
-$$\color{purple}{best\ viewed\ on\ mobile. . .}$$  
+$$\color{purple}{best\ viewed\ on\ desktop. . .}$$  
 
 
 </p>
