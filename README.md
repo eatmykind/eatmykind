@@ -7,6 +7,8 @@
   >
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eatmykind&label=folks.&color=7326BE ">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/686f7e56-a153-4069-8c1f-0c235d4c4017" width="99">
@@ -20,7 +22,7 @@
 </p> <br><br>
 
 <p align="center">
-  <font color="#7326BE" size="3"> c+h freely ༝ unless said otherwise </font>
+  <font color="#7326BE" size="3"> c+h freely ༝ unless said otherwise ༝ nv sometimes </font>
 </p>
 
 <br><br>
