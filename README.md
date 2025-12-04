@@ -56,7 +56,8 @@ $$\mathit{c+h\ freely\ unless\ said\ otherwise }$$
 </p> 
 
 
-
+ <br><br>
+ <p align="center"> I DO NOT USE TONETAG EVEN IF YOU TELL ME SO PLEASE I DON'T USE TONE TAG IF YOU HAVE HYPERSENSITIVITY KINDLY BLOCK OR HIDE!! #JUSTICEFORMIKA THEY KEEP GETTING ATTACKED </p> 
 ⠀⠀⠀   ⠀⠀⠀⠀  ⠀⠀⠀   ⠀⠀⠀      ⠀⠀⠀⠀⠀⠀  ⠀  ⠀
 
 
