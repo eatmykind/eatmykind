@@ -7,6 +7,13 @@
   >
 </p>
 
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjugouogupx2mu603rjvk5y&cover_image=true" />
+</p>
+
+
+
 <p align="center"> ୨୧ </p> 
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eatmykind&label=folks.&color=7326BE ">
