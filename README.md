@@ -1,4 +1,6 @@
 
+
+
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/1cbddaaa-dab8-4503-a02d-21601067e9fb"
@@ -6,7 +8,6 @@
     alt="decor"
   >
 </p>
-
 
 <p align="center"> ୨୧ </p> 
 <br><br>
@@ -52,6 +53,14 @@ $$\mathit{c+h\ freely\ unless\ said\ otherwise }$$
 
 <p align="center">
   <a href="https://secondpartytime.straw.page/">1</a> . <a href="https://laluhhlala.atabook.org/">2</a> . <a href="https://github.com/leow0oks">3</a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjuguoogupx2mu6o3rjvk5y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=ffffff&bar_color_cover=false">
+  </a>
 </p>
 
 
