@@ -48,7 +48,16 @@ $$\mathit{c+h\ freely\ unless\ said\ otherwise }$$
 </p>
 
 
+<p align="center">
+  <a href="https://secondpartytime.straw.page/">1</a> . <a href="https://laluhhlala.atabook.org/">2</a> . <a href="https://github.com/leow0oks">3</a>
+</p>
+
+
 <p align="center"> <img width="450" height="200" alt="tumblr_418090450eda9c904f57b227ee121116_d5bf24e5_1280" src="https://github.com/user-attachments/assets/54f227fc-25c4-464b-9874-7d15dfdd2c6c" />
+
+
+
+
 
 
 <p align="center">
@@ -57,8 +66,7 @@ $$\mathit{c+h\ freely\ unless\ said\ otherwise }$$
 
 
  <br><br>
- <p align="center"> I DO NOT USE TONETAG EVEN IF YOU TELL ME SO PLEASE I DON'T USE TONE TAG IF YOU HAVE HYPERSENSITIVITY KINDLY BLOCK OR HIDE!! #JUSTICEFORMIKA THEY KEEP GETTING ATTACKED </p> 
-⠀⠀⠀   ⠀⠀⠀⠀  ⠀⠀⠀   ⠀⠀⠀      ⠀⠀⠀⠀⠀⠀  ⠀  ⠀
+  ⠀⠀⠀⠀  ⠀⠀⠀   ⠀⠀⠀      ⠀⠀⠀⠀⠀⠀  ⠀  ⠀
 
 
 
