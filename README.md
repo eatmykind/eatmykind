@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjugouogupx2mu603rjvk5y&theme=compact" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ujgbjugouogupx2mu603rjvk5y&cover_image=true&theme=compact&show_offline=false&background_color=000000" />
 </p>
 
 
