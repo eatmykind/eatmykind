@@ -9,8 +9,9 @@
 
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjugouogupx2mu603rjvk5y&cover_image=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjugouogupx2mu603rjvk5y&theme=compact" />
 </p>
+
 
 
 
