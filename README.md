@@ -52,7 +52,7 @@ $$\mathit{c+h\ freely\ unless\ said\ otherwise }$$
 
 
 <p align="center">
-  <a href="https://secondpartytime.straw.page/">1</a> . <a href="https://laluhhlala.atabook.org/">2</a> . <a href="https://github.com/leow0oks">3</a>
+  <a href="https://drezzdon.straw.page">straw</a> . <a href="https://laluhhlala.atabook.org/">ata</a> . <a href="https://github.com/leow0oks">alt</a>
 </p>
 
 
