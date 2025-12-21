@@ -1,3 +1,5 @@
+<p align="center"> <img alt=c635a734 src="https://komarev.com/ghpvc/?username=eatmykind&label=folks.&color=FA0401 ">
+</p>
 
 
 <img
@@ -6,6 +8,7 @@
   align="left"
 />
 <br><br><br>
+<p align="center"> ୨୧ </p> 
 
 $$\color{#FA0401}{\text{best viewed on desktop..}}$$
 
@@ -17,10 +20,14 @@ $$\quad$$
 
 $$\text{IWC always . I have low social battery}$$
 
+<p align="center"> ୨୧ </p> 
+
+<p align="center">
+  <a href="https://drezzdon.straw.page">straw</a> . <a href="https://laluhhlala.atabook.org/">ata</a> . <a href="https://github.com/leow0oks">alt</a>
+</p>
+
 <br clear="left">
 
-<p align="right"> <img alt=c635a734 src="https://komarev.com/ghpvc/?username=eatmykind&label=folks.&color=FA0401 ">
-</p>
 
 <p align="left"> <img width="3000" height="3000" alt="c635a734" src="https://github.com/user-attachments/assets/9683eff4-17e3-4192-9618-c1688a5d5319" />
  </p> 
@@ -39,41 +46,12 @@ WIP
 
 
 
-<p align="center"> ୨୧ </p> 
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/825a2abb-b7f2-4c8a-a958-2834c997752a" width="200">
-</p>
-
-
-<p align="center">
-  <a href="https://drezzdon.straw.page">straw</a> . <a href="https://laluhhlala.atabook.org/">ata</a> . <a href="https://github.com/leow0oks">alt</a>
-</p>
-
-
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjuguoogupx2mu6o3rjvk5y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
 
-
-<p align="center"> <img width="450" height="200" alt="tumblr_418090450eda9c904f57b227ee121116_d5bf24e5_1280" src="https://github.com/user-attachments/assets/54f227fc-25c4-464b-9874-7d15dfdd2c6c" />
-
-
-
-
-
-
-<p align="center">
-  gif by foxxxdog on tumlr and graphics by mooniiecake on tumlr!
-</p> 
-
-
- <br><br>
-  ⠀⠀⠀⠀  ⠀⠀⠀   ⠀⠀⠀      ⠀⠀⠀⠀⠀⠀  ⠀  ⠀
 
 
 
