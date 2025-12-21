@@ -29,6 +29,15 @@ $$\text{IWC always . I have low social battery}$$
 <br clear="left">
 
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjuguoogupx2mu6o3rjvk5y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=ffffff&bar_color_cover=false">
+  </a>
+</p>
+
+
+
+
 <p align="left"> <img width="3000" height="3000" alt="c635a734" src="https://github.com/user-attachments/assets/9683eff4-17e3-4192-9618-c1688a5d5319" />
  </p> 
   
@@ -46,11 +55,9 @@ WIP
 
 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjuguoogupx2mu6o3rjvk5y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=ffffff&bar_color_cover=false">
-  </a>
-</p>
+
+
+
 
 
 
