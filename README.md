@@ -8,7 +8,7 @@
   align="left"
 />
 <br><br><br>
-<p align="center"> ୨୧ </p> 
+<p align="center"> 𓏼 ͜͜✚ ㅤ⸺ㅤ˖ㅤ ೀ </p> 
 
 $$\color{#FA0401}{\text{best viewed on desktop..}}$$
 
@@ -18,12 +18,12 @@ $$\text{c + h freely unless said otherwise}$$
 
 $$\quad$$
 
-$$\text{IWC always . I have low social battery}$$
+$$\color{#FA0401}{\text{IWC always . unable to talk to more than 1}}$$
 
 <p align="center"> ୨୧ </p> 
 
 <p align="center">
-  <a href="https://drezzdon.straw.page">straw</a> . <a href="https://laluhhlala.atabook.org/">ata</a> . <a href="https://github.com/leow0oks">alt</a>
+  <a href="https://drezzdon.straw.page">𝕾traw</a> . <a href="https://laluhhlala.atabook.org/">𝕬ta</a> . <a href="https://github.com/leow0oks">𝕬lt</a>
 </p>
 
 <br clear="left">
