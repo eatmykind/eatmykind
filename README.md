@@ -48,7 +48,7 @@ $$\color{#FA0401}{\text{IWC always . unable to talk to more than 1}}$$
 
 
 
-someone gave me the idea oke.
+someone gave me the idea oke. SCROLL FOR FEET PHONK
 
 
 
@@ -58,6 +58,10 @@ someone gave me the idea oke.
 ![IMG_20251224_095607_981](https://github.com/user-attachments/assets/a738ce94-fcbf-49db-96c2-ff166cbc3c4c)
 
 
+
+
+
+https://github.com/user-attachments/assets/208e4cd5-bcd8-492a-a930-dba69583f4e9
 
 
   
