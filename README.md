@@ -60,5 +60,5 @@ https://github.com/user-attachments/assets/3543f93d-ee5e-4abf-a823-24bbef27d164
 
 
   
-![IMG_20251224_095607_981](https://github.com/user-attachments/assets/5bc18334-1633-42ec-9544-3170bbccefda)
+
 
