@@ -56,6 +56,8 @@ $$\color{#FA0401}{\text{IWC always . unable to talk to more than 1}}$$
 https://github.com/user-attachments/assets/208e4cd5-bcd8-492a-a930-dba69583f4e9
 
 
-  
+lala voice rev
+
+  https://github.com/user-attachments/assets/6ec8de74-109c-4d22-a164-50f5a5dc0aea
 
 
