@@ -1,24 +1,26 @@
-<p align="center"> <img alt=c635a734 src="https://komarev.com/ghpvc/?username=eatmykind&label=folks.&color=FA0401 ">
+<p align="center"> <img alt=c635a734 src="https://komarev.com/ghpvc/?username=eatmykind&label=HEARTS.&color=6C335E">
 </p>
 
 
+
+
 <img
-  src="https://github.com/user-attachments/assets/e857c0be-e720-4527-a7ca-e9138c24c410"
+  src="https://github.com/user-attachments/assets/2df8e422-82a3-4eec-941c-2db067731c5a"
   width="400"
   align="left"
 />
 <br><br><br>
-<p align="center"> 𓏼 ͜͜✚ ㅤ⸺ㅤ˖ㅤ ೀ </p> 
+<p align="center"> —————　✦　————— </p> 
 
-$$\color{#FA0401}{\text{best viewed on desktop..}}$$
-
-$$\quad$$
-
-$$\text{c + h freely unless said otherwise}$$
+$$\color{#7388A8}{\text{best viewed on desktop..}}$$
 
 $$\quad$$
 
-$$\color{#FA0401}{\text{IWC always . unable to talk to more than 1}}$$
+$$\color{CBBAD2}{\text{c + h freely unless said otherwise}}$$
+
+$$\quad$$
+
+$$\color{#6C335E}{\text{IWC always . unable to talk to more than 1}}$$
 
 <p align="center"> ୨୧ </p> 
 
@@ -42,13 +44,10 @@ $$\color{#FA0401}{\text{IWC always . unable to talk to more than 1}}$$
   <img width="99" height="56" src="https://github.com/user-attachments/assets/d5bd2da1-de33-4d93-a9a8-bf353d2d1f1e" />
 </p>
 
-<p align="left"> <img width="3000" height="3000" alt="c635a734" src="https://github.com/user-attachments/assets/9683eff4-17e3-4192-9618-c1688a5d5319" />
- </p> 
+<p align="center"> ————————————————————　✦　———————————————————— </p> 
 
 
-
-
-
+<p align="center"> <img width="900" height="400" src="https://github.com/user-attachments/assets/578a356f-7ba5-4dda-a63c-996ec78fd645" /> </p> 
 
 
 
