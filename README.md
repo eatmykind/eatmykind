@@ -47,9 +47,6 @@ $$\color{#6C335E}{\text{IWC always . unable to talk to more than 1}}$$
 <p align="center"> ————————————————————　✦　———————————————————— </p> 
 
 
-<p align="center"> <img width="900" height="400" src="https://github.com/user-attachments/assets/578a356f-7ba5-4dda-a63c-996ec78fd645" /> </p> 
-
-
 
 
 
