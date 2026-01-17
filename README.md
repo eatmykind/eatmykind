@@ -26,7 +26,7 @@ $$\color{#6C335E}{\text{IWC always . unable to talk to more than 1}}$$
 <p align="center"> ୨୧ </p> 
 
 <p align="center">
-  <a href="https://drezzdon.straw.page">𝕾traw</a> . <a href="https://laluhhlala.atabook.org/">𝕬ta</a> . <a href="https://github.com/leow0oks">𝕬lt</a>
+  <a href="https://pupnanakang.straw.page">𝕾traw</a> . <a href="https://laluhhlala.atabook.org/">𝕬ta</a> . <a href="https://github.com/leow0oks">𝕬lt</a>
 </p>
 
 <br clear="left">
