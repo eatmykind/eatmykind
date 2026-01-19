@@ -1,35 +1,50 @@
-<p align="center"> <img alt=c635a734 src="https://komarev.com/ghpvc/?username=eatmykind&label=HEARTS.&color=6C335E">
+
+
+<img width="1000" height="200" src="https://github.com/user-attachments/assets/842cc155-beb3-4244-8e6b-14d48a68f03c" />
+
+<br><br><br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eatmykind&label=✧&labelColor=3B1C2A&color=F28DBF&v=2" />
 </p>
-
-
 
 
 
 <img
-  src="https://github.com/user-attachments/assets/d8ffa18b-179a-4ba4-acdc-03c27e7f5164"
+  src="https://github.com/user-attachments/assets/0768d9c7-e8b1-400e-a86a-4ddc835ed0eb"
   width="400"
   align="left"
 />
 <br><br><br>
-<p align="center"> —————　✦　————— </p> 
-
-$$\color{#7388A8}{\text{best viewed on desktop..}}$$
+<p align="center"> ◟　—————————　✦　—————————　 ◞  </p> 
 
 $$\quad$$
 
-$$\color{CBBAD2}{\text{c + h freely unless said otherwise}}$$
+$$\color{#F05A9C}{\text{"　　ཀ　　best on desktop　.　!}}$$
 
 $$\quad$$
 
-$$\color{#6C335E}{\text{IWC always . unable to talk to more than 1}}$$
+$$\color{#EDE6E8}{\text{   　︶　 read strawpage`　𓎢𓎡　　₊　　c*h freely　　:　　🗡   }}$$
+
+
+
 
 <p align="center"> ୨୧ </p> 
 
 <p align="center">
-  <a href="https://pupnanakang.straw.page">𝕾traw</a> . <a href="https://laluhhlala.atabook.org/">𝕬ta</a> . <a href="https://github.com/leow0oks">𝕬lt</a>
+  <a href="https://pupnanakang.straw.page">𝒮traw</a> ₊ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ₊ <a href="https://github.com/leow0oks">𝒜lt</a>
 </p>
 
 <br clear="left">
+
+<br><br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eatmykind&label=puppy&labelColor=3B1C2A&color=F28DBF&v=2" />
+</p>
+
+
+<img width="1000" height="200" src="https://github.com/user-attachments/assets/21273ef1-c71c-4ee7-b488-f4247872286a" />
+
 
 
 <p align="center">
@@ -39,10 +54,9 @@ $$\color{#6C335E}{\text{IWC always . unable to talk to more than 1}}$$
   &nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;
   
-  <img width="99" height="56" src="https://github.com/user-attachments/assets/3e320b06-38c5-440f-8ed1-eb7c17f6af74" />
-  <img width="99" height="56" src="https://github.com/user-attachments/assets/4ac8e124-fdb0-4071-9479-dd33aaebe485" />
-  <img width="99" height="56" src="https://github.com/user-attachments/assets/6072687e-777d-4e7e-af52-85f51df53b41" />
-  <img width="99" height="56" src="https://github.com/user-attachments/assets/d5bd2da1-de33-4d93-a9a8-bf353d2d1f1e" />
+  <img width="99" height="200" src="https://github.com/user-attachments/assets/eddeaf4c-32b2-4f26-a3a8-a6b6f700bb35" />
+
+
 </p>
 
 <p align="center"> ————————————————————　✦　———————————————————— </p> 
