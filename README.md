@@ -11,7 +11,7 @@
 
 
 <img
-  src="https://github.com/user-attachments/assets/0768d9c7-e8b1-400e-a86a-4ddc835ed0eb"
+  src="https://github.com/user-attachments/assets/613a613b-81b0-4f2e-966c-82f64f271132"
   width="400"
   align="left"
 />
