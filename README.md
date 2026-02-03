@@ -32,7 +32,7 @@ $$\color{#EDE6E8}{\text{   　︶　 read strawpage`　𓎢𓎡　　₊　　c*
 <p align="center"> ୨୧ </p> 
 
 <p align="center">
-  <a href="https://pupnanakang.straw.page">𝒮traw</a> ₊ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ₊ <a href="https://en.pronouns.page/@hvlyy">𝒜lt</a>
+  <a href="https://pupnanakang.straw.page">𝒮traw</a> ₊ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ₊ <a href="https://en.pronouns.page/@hvlyy">prnspage</a>
 </p>
 
 <br clear="left">
