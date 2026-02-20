@@ -24,7 +24,7 @@ $$\color{#F05A9C}{\text{"　　ཀ　　best on desktop　.　!}}$$
 
 $$\quad$$
 
-$$\color{#EDE6E8}{\text{   　︶　 I adore mashed banana  ` 𓎢𓎡　　₊　　c*h freely　　:　　🗡   }}$$
+$$\color{#EDE6E8}{\text{   　︶　 iwc  ` 𓎢𓎡　　₊　　c*h freely　　:　　🗡   }}$$
 
 
 
