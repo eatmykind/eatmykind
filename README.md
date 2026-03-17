@@ -32,7 +32,7 @@ $$\color{#EDE6E8}{\text{   　︶　 iwc  ` 𓎢𓎡　　₊　　c*h freely　
 <p align="center"> ୨୧ </p> 
 
 <p align="center">
-  <a href="https://pupnanakang.straw.page">𝒮traw</a> ₊ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ₊ <a href="https://en.pronouns.page/@hvlyy">prnspage</a>
+  <a href="https://pupkang.straw.page">𝒮traw</a> ₊ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ₊ <a href="https://en.pronouns.page/@hvlyy">prnspage</a>
 </p>
 
 <br clear="left">
