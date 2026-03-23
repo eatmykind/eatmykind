@@ -1,6 +1,6 @@
 
+## WORK IN PROGRESS
 
-<img width="1000" height="200" src="https://github.com/user-attachments/assets/842cc155-beb3-4244-8e6b-14d48a68f03c" />
 
 <br><br><br>
 
@@ -10,9 +10,10 @@
 
 
 
+
 <img
-  src="https://github.com/user-attachments/assets/613a613b-81b0-4f2e-966c-82f64f271132"
-  width="400"
+  src="https://github.com/user-attachments/assets/b20378bd-69f8-45a3-aac3-ef2faec5bed3"
+  width="300"
   align="left"
 />
 <br><br><br>
@@ -20,11 +21,11 @@
 
 $$\quad$$
 
-$$\color{#F05A9C}{\text{"　　ཀ　　best on desktop　.　!}}$$
+$$\color{#F05A9C}{\text{ best on desktop}}$$
 
 $$\quad$$
 
-$$\color{#EDE6E8}{\text{   　︶　 iwc  ` 𓎢𓎡　　₊　　c*h freely　　:　　🗡   }}$$
+$$\color{#EDE6E8}{\text{ blah blah  }}$$
 
 
 
@@ -37,13 +38,10 @@ $$\color{#EDE6E8}{\text{   　︶　 iwc  ` 𓎢𓎡　　₊　　c*h freely　
 
 <br clear="left">
 
-<br><br><br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eatmykind&label=puppy&labelColor=3B1C2A&color=F28DBF&v=2" />
 </p>
 
 
-<img width="1000" height="200" src="https://github.com/user-attachments/assets/21273ef1-c71c-4ee7-b488-f4247872286a" />
+
 
 
 
@@ -53,8 +51,7 @@ $$\color{#EDE6E8}{\text{   　︶　 iwc  ` 𓎢𓎡　　₊　　c*h freely　
   </a>
   &nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;
-  
-  <img width="99" height="200" src="https://github.com/user-attachments/assets/eddeaf4c-32b2-4f26-a3a8-a6b6f700bb35" />
+ 
 
 
 </p>
