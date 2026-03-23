@@ -1,27 +1,28 @@
 
-## WORK IN PROGRESS
+<p align="center"> <img width="800" height="150" alt="Untitled258_20260323124616" src="https://github.com/user-attachments/assets/7620ec50-d33c-43f7-9766-dd3bc807242b" />
 
 
-<br><br><br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eatmykind&label=✧&labelColor=3B1C2A&color=F28DBF&v=2" />
+<p align="center"> <img alt=c635a734 src="https://komarev.com/ghpvc/?username=pupkang&label=fishes&color=F3C6A8 ">
 </p>
 
 
-
+<p align="center"> ————————————————————　✦　———————————————————— </p> 
 
 <img
-  src="https://github.com/user-attachments/assets/b20378bd-69f8-45a3-aac3-ef2faec5bed3"
-  width="300"
+  src="https://github.com/user-attachments/assets/7246b735-fb29-4d20-8889-8f1d9296b78a"
+  width="500"
   align="left"
 />
-<br><br><br>
-<p align="center"> ◟　—————————　✦　—————————　 ◞  </p> 
+<br><br><br>  
+
 
 $$\quad$$
 
-$$\color{#F05A9C}{\text{ best on desktop}}$$
+$$\color{#F05A9C}{\text{ ‎ ‎ do not copy ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎.    best on desktop ‎ ‎‎ ‎ ‎ ‎ ۫ ׅ ‎ }}$$
+
+$$\quad$$
+
+$$\color{#F05A9C}{\text{ 𓎟𓎟　 ╯︿╰　　𓎟𓎟 }}$$
 
 $$\quad$$
 
