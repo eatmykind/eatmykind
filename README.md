@@ -6,10 +6,11 @@
 </p>
 
 
+
 <p align="center"> ————————————————————　✦　———————————————————— </p> 
 
 <img
-  src="https://github.com/user-attachments/assets/7246b735-fb29-4d20-8889-8f1d9296b78a"
+  src="https://github.com/user-attachments/assets/09202aab-c2b1-4e10-b6cc-9b1b392e620e"
   width="500"
   align="left"
 />
@@ -18,11 +19,11 @@
 
 $$\quad$$
 
-$$\color{#F05A9C}{\text{ ‎ ‎ do not copy ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎.    best on desktop ‎ ‎‎ ‎ ‎ ‎ ۫ ׅ ‎ }}$$
+$$\color{#F3C6A8}{\text{ ‎ ‎ do not copy ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎    best on desktop ‎ ‎‎ ‎ ‎ ‎ ۫ ׅ ‎ }}$$
 
 $$\quad$$
 
-$$\color{#F05A9C}{\text{ 𓎟𓎟　 ╯︿╰　　𓎟𓎟 }}$$
+$$\color{#F3C6A8}{\text{ 𓎟𓎟　 ╯︿╰　　𓎟𓎟 }}$$
 
 $$\quad$$
 
