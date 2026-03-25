@@ -2,9 +2,9 @@
 <p align="center"> <img width="800" height="150" alt="Untitled258_20260323124616" src="https://github.com/user-attachments/assets/7620ec50-d33c-43f7-9766-dd3bc807242b" />
 
 
-<p align="center"> <img alt=c635a734 src="https://komarev.com/ghpvc/?username=pupkang&label=୨୧&color=D98F85 ">
+<p align="center">
+  <img src="https://img.shields.io/badge/୨୧-610-D98F85?style=for-the-badge">
 </p>
-
 
 
 <img
@@ -45,7 +45,9 @@ $$\color{#D98F85}{\text{ ㅤ　ㅤㅤㅤ ㅤ ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }
 
 
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/୨୧-426-D98F85?style=for-the-badge">
+</p>
 
 
 <p align="center">
