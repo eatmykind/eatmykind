@@ -62,4 +62,8 @@ $$\color{#D98F85}{\text{ ㅤ　ㅤㅤㅤ ㅤ ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }
 <p align="center"> ————————————————————　✦　———————————————————— </p> 
 
 
-
+<p align="center">
+  <a href="https://docs.google.com/document/d/1z4ul6yPd5LIOJ1_bN6ihUblsQf5wIt-z3MdDw-2Dx3Y/edit?tab=t.0">
+    read 4 awareness
+  </a>
+</p>
