@@ -3,9 +3,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/୨୧-610-D98F85?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=pupkang&label=୨୧&color=D98F85&style=plastic">
 </p>
-
 
 <img
   src="https://github.com/user-attachments/assets/09202aab-c2b1-4e10-b6cc-9b1b392e620e"
@@ -46,7 +45,7 @@ $$\color{#D98F85}{\text{ ㅤ　ㅤㅤㅤ ㅤ ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/୨୧-426-D98F85?style=for-the-badge">
+  <img src="https://img.shields.io/badge/୨୧-610-D98F85?style=plastic">
 </p>
 
 
