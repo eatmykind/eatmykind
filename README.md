@@ -14,6 +14,26 @@ $$\quad$$
   <img src="https://komarev.com/ghpvc/?username=pupkang&label=୨୧&color=F6E1A6&style=plastic">
 </p>
 
+<img
+  src="https://github.com/user-attachments/assets/765979c8-3520-46fa-9921-c806f384155c"
+  width="400"
+  align="left"
+/>
+
+
+
+$$\quad$$ 
+
+$$\color{#D98F85}{\text{ wip }}$$
+
+
+$$\color{#FFF5F0}{\text{ ‎wip }}$$
+
+
+
+$$\color{#D98F85}{\text{ pls help wip }}$$
+
+
 
 
 <p align="center">
