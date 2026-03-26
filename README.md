@@ -6,7 +6,7 @@ $$\color{#F6E1A6}{\text{All that work, and he}}\ \color{#F7A3B5}{\text{laughs}}\
 
 $$\quad$$ 
 
-$$\color{#F7A3B5}{\text{ ㅤ　ㅤㅤㅤ  ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }}$$
+<img width="1000" height="57" alt="Untitled215_20260326155926" src="https://github.com/user-attachments/assets/5d2645be-4d1f-4633-a3bc-eaefa3daafaf" />
 
 $$\quad$$ 
 
@@ -16,7 +16,7 @@ $$\quad$$
 
 <img
   src="https://github.com/user-attachments/assets/765979c8-3520-46fa-9921-c806f384155c"
-  width="400"
+  width="300"
   align="left"
 />
 
@@ -24,16 +24,21 @@ $$\quad$$
 
 $$\quad$$ 
 
-$$\color{#D98F85}{\text{ wip }}$$
+$$\color{#D98F85}{\text{ ㅤ　ㅤㅤㅤ ㅤ ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }}$$
 
+$$\quad$$
 
-$$\color{#FFF5F0}{\text{ ‎wip }}$$
+$$\color{#FFF5F0}{\text{ ‎ ‎‎ ‎ 𓄼 ⑅˚ ㅤ　 best on desktop ‎ ‎‎ ‎ ‎   .ㅤ　 ✧‎‎    }}$$
 
+$$\quad$$
 
+$$\color{#D98F85}{\text{ ㅤ　✚ ͝ །　　 ◟ㅤㅤㅤc*h freelyㅤㅤㅤㅤ　ㅤ.　 }}$$
 
-$$\color{#D98F85}{\text{ pls help wip }}$$
+$$\quad$$
 
+$$\color{#FFF5F0}{\text{ ㅤৡ‿◞ ྀི 𓂃ㅤㅤ　ㅤ.　 }}$$
 
+$$\quad$$
 
 
 <p align="center">
@@ -44,12 +49,18 @@ $$\color{#D98F85}{\text{ pls help wip }}$$
 
 </p>
 
-<p align="center"> WORK IN PROGRESS </p> 
 
-
+ 
+ $$\quad$$ 
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/୨୧-610-D98F85?style=plastic">
 </p>
+
+
+
+
+
 
 
 <p align="center">
@@ -63,7 +74,9 @@ $$\color{#D98F85}{\text{ pls help wip }}$$
 
 </p>
 
-<p align="center"> ————————————————————　✦　———————————————————— </p> 
+
+
+
 
 
 <p align="center">
