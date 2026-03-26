@@ -1,38 +1,20 @@
 
-<p align="center"> <img width="800" height="150" alt="Untitled258_20260323124616" src="https://github.com/user-attachments/assets/7620ec50-d33c-43f7-9766-dd3bc807242b" />
 
+<p align="center"> <img width="700" height="200" alt="Untitled263" src="https://github.com/user-attachments/assets/ecef0ecf-36f9-4b85-841d-cfc75ee47e19" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pupkang&label=୨୧&color=D98F85&style=plastic">
-</p>
-
-<img
-  src="https://github.com/user-attachments/assets/09202aab-c2b1-4e10-b6cc-9b1b392e620e"
-  width="500"
-  align="left"
-/>
-  　
-
+$$\color{#F6E1A6}{\text{All that work, and he}}\ \color{#F7A3B5}{\text{laughs}}\ \color{#F6E1A6}{\text{at me . . .}}\ \color{#F7A3B5}{\text{worth it }}\$$
 
 $$\quad$$ 
 
-$$\color{#D98F85}{\text{ ㅤ　ㅤㅤㅤ ㅤ ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }}$$
+$$\color{#F7A3B5}{\text{ ㅤ　ㅤㅤㅤ  ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }}$$
 
-$$\quad$$
+$$\quad$$ 
 
-$$\color{#FFF5F0}{\text{ ‎ ‎‎ ‎ 𓄼 ⑅˚ ㅤ　 best on desktop ‎ ‎‎ ‎ ‎   .ㅤ　 ✧‎‎    }}$$
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pupkang&label=୨୧&color=F6E1A6&style=plastic">
+</p>
 
-$$\quad$$
 
-$$\color{#D98F85}{\text{ ㅤ　✚ ͝ །　　 ◟ㅤㅤㅤc*h freelyㅤㅤㅤㅤ　ㅤ.　 }}$$
-
-$$\quad$$
-
-$$\color{#FFF5F0}{\text{ ㅤৡ‿◞ ྀི 𓂃ㅤㅤ　ㅤ.　 }}$$
-
-$$\quad$$
-
-$$\color{#D98F85}{\text{ ㅤ　ㅤㅤㅤ ㅤ ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }}$$
 
 <p align="center">
   <a href="https://pupkang.straw.page">𝒮traw</a> ₊ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ₊ <a href="https://en.pronouns.page/@hvlyy">prnspage</a>
@@ -42,6 +24,7 @@ $$\color{#D98F85}{\text{ ㅤ　ㅤㅤㅤ ㅤ ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }
 
 </p>
 
+<p align="center"> WORK IN PROGRESS </p> 
 
 
 <p align="center">
