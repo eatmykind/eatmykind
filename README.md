@@ -39,8 +39,6 @@ $$\quad$$
 
 $$\color{#FFF5F0}{\text{ ㅤৡ‿◞ ྀི 𓂃ㅤㅤ　ㅤ.　 }}$$
 
-$$\quad$$
-
 
 <p align="center">
   <a href="https://pupkang.straw.page">𝒮traw</a> ₊ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ₊ <a href="https://en.pronouns.page/@hvlyy">prnspage</a>
@@ -51,14 +49,11 @@ $$\quad$$
 </p>
 
 
-
-
 <p align="center"> 
- <img width="150" height="150" alt="Untitled264_2026032712495" src="https://github.com/user-attachments/assets/51de02c4-7ba3-4b70-bc8e-03525cc0c2da" /> 
+
+<img width="150" height="150" alt="Untitled264_2026032712495" src="https://github.com/user-attachments/assets/51de02c4-7ba3-4b70-bc8e-03525cc0c2da" /> 
 <img width="150" height="150" alt="Untitled264_20260327125242" src="https://github.com/user-attachments/assets/0dfb0248-ef24-4e92-ac56-f29bc6013d92" /> 
-
-
-
+<img width="150" height="150" alt="[Untitled264_20260327125136" src="https://github.com/user-attachments/assets/59640ebd-1c51-4a4e-ab92-b78e786fcb97" />
 
 </p>
 
