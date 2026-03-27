@@ -2,7 +2,7 @@
 
 <p align="center"> <img width="700" height="200" alt="Untitled263" src="https://github.com/user-attachments/assets/ecef0ecf-36f9-4b85-841d-cfc75ee47e19" /> </p>
 
-$$\color{#F6E1A6}{\text{All that work, and he}}\ \color{#F7A3B5}{\text{laughs}}\ \color{#F6E1A6}{\text{at me . . .              }}\ \color{#F7A3B5}{\text{worth it. }}\$$
+$$\color{#F6E1A6}{\text{" All that work, and he}}\ \color{#F7A3B5}{\text{laughs}}\ \color{#F6E1A6}{\text{at me . . . " }}\$$
 
 $$\quad$$ 
 
@@ -15,10 +15,11 @@ $$\quad$$
 </p>
 
 <img
-  src="https://github.com/user-attachments/assets/765979c8-3520-46fa-9921-c806f384155c"
-  width="300"
+  src="https://github.com/user-attachments/assets/6c420d60-b03f-4ec6-ab4b-230e6ed243f2"
+  width="500"
   align="left"
 />
+
 
 
 
@@ -49,6 +50,20 @@ $$\quad$$
 
 </p>
 
+
+
+
+<p align="center"> 
+ <img width="150" height="150" alt="Untitled264_2026032712495" src="https://github.com/user-attachments/assets/51de02c4-7ba3-4b70-bc8e-03525cc0c2da" /> 
+<img width="150" height="150" alt="Untitled264_20260327125242" src="https://github.com/user-attachments/assets/0dfb0248-ef24-4e92-ac56-f29bc6013d92" /> 
+
+
+
+
+</p>
+
+
+  
 
  
  $$\quad$$ 
