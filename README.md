@@ -11,7 +11,7 @@ $$\quad$$
 $$\quad$$ 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pupkang&label=୨୧&color=F6E1A6&style=plastic">
+  <img src="https://komarev.com/ghpvc/?username=pupkang&label=୨୧&color=8A6FAF&style=plastic">
 </p>
 
 <img
