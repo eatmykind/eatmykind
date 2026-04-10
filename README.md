@@ -23,21 +23,7 @@ $$\quad$$
 
 
 
-$$\quad$$ 
 
-$$\color{#D98F85}{\text{ ㅤ　ㅤㅤㅤ ㅤ ㅤ⪩♡⪨ㅤㅤㅤㅤ　ㅤ　 }}$$
-
-$$\quad$$
-
-$$\color{#FFF5F0}{\text{ ‎ ‎‎ ‎ 𓄼 ⑅˚ ㅤ　 best on desktop ‎ ‎‎ ‎ ‎   .ㅤ　 ✧‎‎    }}$$
-
-$$\quad$$
-
-$$\color{#D98F85}{\text{ ㅤ　✚ ͝ །　　 ◟ㅤㅤㅤc*h freelyㅤㅤㅤㅤ　ㅤ.　 }}$$
-
-$$\quad$$
-
-$$\color{#FFF5F0}{\text{ ㅤৡ‿◞ ྀི 𓂃ㅤㅤ　ㅤ.　 }}$$
 
 
 <p align="center">
