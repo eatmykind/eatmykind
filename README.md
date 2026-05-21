@@ -1,3 +1,3 @@
-I don't want to be in anyone's life rn oke
+remake soon enough
 
 https://pupkang.straw.page
