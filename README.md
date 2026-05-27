@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pupmikaw&label=beatles&color=red&style=plastic">
+</p>
 
 
 <p align="center"><img width="500" height="397" alt="download (1)" src="https://github.com/user-attachments/assets/916270af-5410-4479-abfc-fb26fc72cb14" />
