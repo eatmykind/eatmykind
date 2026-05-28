@@ -9,5 +9,5 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=FFF9E6&width=435&lines=I+get+by+with+a+little+help+from+my+friends." alt="Typing SVG" /></a> </p>
 
 <p align="center">
-  <a href="https://pupkang.straw.page">𝒮traw</a> ₊ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ₊ <a href="https://en.pronouns.page/@hvlyy">prnspage</a>
+  <a href="https://pupkang.straw.page">𝒮traw</a> ◇ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ◇ <a href="https://en.pronouns.page/@hvlyy">prnspage</a>
 </p>
