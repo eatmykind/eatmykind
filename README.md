@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pupmikaw&label=.・゜゜・&color=8E7A77&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=pupmikaw&label=.・゜゜・&color=1B2A3B&style=flat-square">
 </p>
 
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-$$\color{#8E7A77}{\text{᧔o᧓}}$$
+$$\color{#8E7A77}{\text{.・゜゜・}}$$
 
 $$\color{#E7DDD3}{\text{Best on desktop! }}$$
 
