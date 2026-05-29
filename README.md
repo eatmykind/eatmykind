@@ -1,15 +1,12 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pupmikaw&label=.・゜゜・&color=1B2A3B&style=plastic">
+  <img src="https://komarev.com/ghpvc/?username=pupmikaw&label=.・゜゜・&color=8E7A77&style=flat-square">
 </p>
 
 
 
 
-<p align="center">
-  <a href="https://pupkang.straw.page">𝒮traw</a> ◇ <a href="https://laluhhlala.atabook.org/">𝒜ta</a> ◇ <a href="https://en.pronouns.page/@hvlyy">prnspage</a>
-</p>
 
 
 
@@ -24,23 +21,24 @@
 
 <div align="center">
 
-$$\color{#D98F85}{\text{⪩♡⪨}}$$
+$$\color{#8E7A77}{\text{᧔o᧓}}$$
 
-$$\color{#E7DDD3}{\text{𓄼 ⑅˚ best on desktop ✧}}$$
+$$\color{#E7DDD3}{\text{Best on desktop! }}$$
 
 <br>
 
 <a href="https://pupkang.straw.page">
-  <img src="https://img.shields.io/badge/Straw-6A4A4F?style=for-the-badge&logoColor=E7DDD3&labelColor=1B2A3B">
+  <img src="https://img.shields.io/badge/Straw-1B2A3B?style=for-the-badge&logoColor=060608&labelColor=1B2A3B">
 </a>
 
 <a href="https://laluhhlala.atabook.org/">
-  <img src="https://img.shields.io/badge/Atabook-4A2B31?style=for-the-badge&logoColor=E7DDD3&labelColor=1B2A3B">
+  <img src="https://img.shields.io/badge/Atabook-4A2B31?style=for-the-badge&logoColor=E7DDD3&labelColor=4A2B31">
 </a>
 
 <a href="https://en.pronouns.page/@PawIie">
-  <img src="https://img.shields.io/badge/Pronouns-C9BBB2?style=for-the-badge&logoColor=1B2A3B&labelColor=6A4A4F">
+  <img src="https://img.shields.io/badge/Pronouns-8E7A77?style=for-the-badge&logoColor=1B2A3B&labelColor=8E7A77">
 </a>
+
 
 <br><br>
 
