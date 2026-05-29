@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="center"> <p align="center"><img width="500" height="397" alt="download (1)" src="https://github.com/user-attachments/assets/916270af-5410-4479-abfc-fb26fc72cb14" /> </p>
+<p align="center"> <img width="500" height="500" alt="Untitled282_20260529164811" src="https://github.com/user-attachments/assets/a96d8878-449b-45d0-b60e-8c58b172df42" /> </p>
 
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=FFF9E6&width=435&lines=I+get+by+with+a+little+help+from+my+friends." alt="Typing SVG" /></a> </p>
@@ -24,3 +24,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjuguoogupx2mu6o3rjvk5y&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
+
+
+
