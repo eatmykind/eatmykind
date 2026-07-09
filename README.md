@@ -52,5 +52,4 @@ $$\color{#E7DDD3}{\text{Best on desktop! }}$$
 
 <br clear="left">
 
-
-
+<p align="center"> pony town's Paul McCartney! </p> 
