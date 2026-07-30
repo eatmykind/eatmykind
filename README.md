@@ -52,4 +52,4 @@ $$\color{#E7DDD3}{\text{Best on desktop! }}$$
 
 <br clear="left">
 
-<p align="center">  <a href="https://github.com/title-town"> Pony Town's Paul McCartney!! </a> </p> 
+<p align="center">  pony town's THE Paul McCartney  </p> 
